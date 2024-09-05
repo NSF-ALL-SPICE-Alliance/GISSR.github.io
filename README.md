@@ -1,6 +1,6 @@
 ## Welcome to GIS for Sustainability and Resilience, Vector Techniques!  🌊 🌱 🌎
 
-Here is the [course website](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/)! It contains everything you will need to succeed in the course
+Here is the [course website](https://nsf-all-spice-alliance.github.io/GISSR.github.io/)! It contains everything you will need to succeed in the course
 
 ### Office Hours 
 
