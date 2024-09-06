@@ -127,12 +127,7 @@ Please check the Slack frequently! You will learn a lot more by seeing what othe
 
 # Assignment: Get your toolbox set up!
 
-Before the course starts, you will need to get all the necessary software installed and set up on your computer. Please follow the helpful instructions at this website (this was created for another course in our program, SDG Analytics in R, which I highly recommend if you enjoy this course and want to learn more): https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/installation_guide.html
+Before the course starts, you will need to get all the necessary software installed and set up on your computer. Please follow the helpful instructions at this link (this was created for another course in our program, SDG Analytics in R, which I highly recommend if you enjoy this course and want to learn more): https://nsf-all-spice-alliance.github.io/GISSR.github.io/rmarkdowns/installation_guide.html
 
-Follow the instructions in the following sections:
+IMPORTANT NOTE: Our GitHub classroom is called GISSR-Vector, and will look a little different than what you see in the video. 
 
-- Installing R and RStudio
-- Creating a GitHub account
-- Check for / Install Git | Link R Studio & Github
-
-IMPORTANT NOTE: 
