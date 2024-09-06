@@ -27,7 +27,7 @@ We strongly encourage you to attend office hours for any reason at all 😎
 
 | Week   | Module | Due Date |
 | -------- | ------- | ------- |
-| 0 | Course Introduction  | Midnight on September 10th |        
+| 0 | [Course Introduction](https://nsf-all-spice-alliance.github.io/GISSR.github.io/rmarkdowns/Course_Intro.html)  | Midnight on September 10th |        
 | 0 | [Installation Guide](https://nsf-all-spice-alliance.github.io/GISSR.github.io/rmarkdowns/installation_guide.html)  |  Midnight on September 10th | 
 | 1    | [Intro to R](https://nsf-all-spice-alliance.github.io/GISSR.github.io/rmarkdowns/intro_to_r.html)  | Midnight on September 15th |
 | 1    | [Week 1](https://nsf-all-spice-alliance.github.io/GISSR.github.io/rmarkdowns/Week_1.html)  | Midnight on September 15th |
