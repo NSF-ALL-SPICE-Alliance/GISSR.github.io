@@ -11,7 +11,7 @@ navbar:
     - text: "Installation Guide"
       href: rmarkdowns/installation_guide.html
     - text: "Intro to R"
-      href: rmarkdowns/intro_to_R.html
+      href: rmarkdowns/intro_to_r.html
     - text: "Week 1"
       href: rmarkdowns/Week_1.html
     - text: "Week 2"
