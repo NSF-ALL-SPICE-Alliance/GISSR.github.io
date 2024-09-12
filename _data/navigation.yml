@@ -1,0 +1,18 @@
+main:
+  - title: "Course Intro"
+    url: /rmarkdowns/Course_Intro
+  - title: "Install Guide"
+    url: /rmarkdowns/installation_guide
+  - title: "Intro to R"
+    url: /rmarkdowns/intro_to_r
+  - title: "Week 1"
+    url: /rmarkdowns/Week_1.html
+  - title: "Week 2"
+    url: /rmarkdowns/Week_2.html
+  - title: "Week 3"
+    url: /rmarkdowns/Week_3.html
+  - title: "Week 4"
+    url: /rmarkdowns/Week_4.html
+  - title: "Final Challenge"
+    url: /rmarkdowns/Final_Challenge.html
+    target: _blank
