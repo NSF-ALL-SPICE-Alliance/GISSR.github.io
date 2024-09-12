@@ -1,10 +1,10 @@
 main:
   - title: "Course Intro"
-    url: /rmarkdowns/Course_Intro
+    url: /rmarkdowns/Course_Intro.hmtl
   - title: "Install Guide"
-    url: /rmarkdowns/installation_guide
+    url: /rmarkdowns/installation_guide.html
   - title: "Intro to R"
-    url: /rmarkdowns/intro_to_r
+    url: /rmarkdowns/intro_to_r.html
   - title: "Week 1"
     url: /rmarkdowns/Week_1.html
   - title: "Week 2"
